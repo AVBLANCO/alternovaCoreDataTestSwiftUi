@@ -1,0 +1,2 @@
+# alternovaCoreDataTest
+ alternovaCoreDataSwiftUi
